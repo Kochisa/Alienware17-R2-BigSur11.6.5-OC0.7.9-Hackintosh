@@ -3,7 +3,7 @@
 处理器名称  	Intel Core i7-4710HQ, 3100 MHz (31 x 100)  
 主板名称     Alienware 17 R2  
 主板芯片组  	Intel Lynx Point HM87, Intel Haswell  
-显示适配器  	Intel(R) HD Graphics 4600 (1 GB)  
+显示适配器  	Intel(R) HD Graphics 4600
 音频适配器  	Creative CA0132 @ Intel Lynx Point PCH - High Definition Audio Controller  
 网络适配器  	Dell Wireless 1820A 802.11ac (Change)  
 网络适配器  	Killer E2200 Gigabit Ethernet Controller  

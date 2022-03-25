@@ -1,7 +1,7 @@
 # Alienware17-R2-BigSur11.6.5-OC0.7.9-Hackintosh
 
 处理器名称  	Intel Core i7-4710HQ, 3100 MHz (31 x 100)  
-主板名称  	 Alienware 17 R2  
+主板名称     Alienware 17 R2  
 主板芯片组  	Intel Lynx Point HM87, Intel Haswell  
 显示适配器  	Intel(R) HD Graphics 4600 (1 GB)  
 音频适配器  	Creative CA0132 @ Intel Lynx Point PCH - High Definition Audio Controller  

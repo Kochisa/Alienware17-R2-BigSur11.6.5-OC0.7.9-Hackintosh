@@ -1,4 +1,4 @@
-# Alienware17-R2-BigSur-11.6.5-Hackintosh
+# Alienware17-R2-BigSur11.6.5-OC0.7.9-Hackintosh
 
 处理器名称  	Intel Core i7-4710HQ, 3100 MHz (31 x 100)
 主板名称  	 Alienware 17 R2

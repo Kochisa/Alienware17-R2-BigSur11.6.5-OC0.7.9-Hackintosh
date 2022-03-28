@@ -6,7 +6,7 @@ CHIP / 芯片组 Intel Lynx Point HM87, Intel Haswell
 iGPU / 集显 Intel(R) HD Graphics 4600  
 Audio / 声卡 Creative CA0132 @ Intel Lynx Point PCH - High Definition Audio Controller  
 NIC / 网卡 Killer E2200 Gigabit Ethernet Controller  
-WIFI / 无线 Dell Wireless 1820A 802.11ac (Change/更换)
+WIFI / 无线 Dell Wireless 1820A 802.11ac (Change/更换)  
 Bluetooth / 蓝牙 Dell Wireless 1820A Bluetooth 4.1 LE (Change/更换)
 
 
